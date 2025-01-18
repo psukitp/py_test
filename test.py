@@ -1,5 +1,5 @@
-print('Введите имя')
+print('Введите имя!')
 
 name = input()
 
-print('Привет', name)
+print('Привет', name, '!!!!')
